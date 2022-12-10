@@ -1,9 +1,4 @@
-Przykładowy tekst 
-Nowy przykładowy tekst 
-this is some content
-bla bla bla
 ...
-New line of content 
-
-New line
-
+my super feature
+my super feature2
+my super feature3
