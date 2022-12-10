@@ -4,3 +4,5 @@ this is some content
 bla bla bla
 ...
 New line of content 
+
+New line
