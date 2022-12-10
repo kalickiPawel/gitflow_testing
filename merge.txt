@@ -1,3 +1,5 @@
-Przykładowy tekst 
+Przykładowy tekst do edycji 
 Nowy przykładowy tekst 
 this is some content
+...
+New line of content 
