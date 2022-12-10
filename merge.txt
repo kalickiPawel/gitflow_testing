@@ -1,3 +1,5 @@
-Przykładowy tekst 
-Nowy przykładowy tekst 
 Nowa linijka 
+...
+my super feature
+my super feature2
+my super feature3
