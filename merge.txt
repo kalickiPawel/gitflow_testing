@@ -1,5 +1,6 @@
 Przykładowy tekst do edycji 
 Nowy przykładowy tekst 
 this is some content
+bla bla bla
 ...
 New line of content 
