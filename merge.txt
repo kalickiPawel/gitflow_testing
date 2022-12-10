@@ -1,6 +1,9 @@
-Przykładowy tekst do edycji 
+Przykładowy tekst 
 Nowy przykładowy tekst 
 this is some content
+<<<<<<< HEAD
 bla bla bla
 ...
 New line of content 
+=======
+>>>>>>> parent of 8be0f5e (New content)
