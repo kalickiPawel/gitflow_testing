@@ -1,4 +1,4 @@
-Przykładowy tekst do edycji 
+Przykładowy tekst 
 Nowy przykładowy tekst 
 this is some content
 bla bla bla
@@ -6,3 +6,4 @@ bla bla bla
 New line of content 
 
 New line
+
