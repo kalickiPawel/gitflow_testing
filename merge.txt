@@ -1,2 +1,3 @@
 Przykładowy tekst 
 Nowy przykładowy tekst 
+Nowa linijka 
